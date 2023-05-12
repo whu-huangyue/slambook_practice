@@ -1,0 +1,5 @@
+/home/hy/下载/shenlan_code_practice/4/code/build/CMakeFiles/rebuild_cache.dir
+/home/hy/下载/shenlan_code_practice/4/code/build/CMakeFiles/edit_cache.dir
+/home/hy/下载/shenlan_code_practice/4/code/build/CMakeFiles/gaussnewton.dir
+/home/hy/下载/shenlan_code_practice/4/code/build/CMakeFiles/disparity.dir
+/home/hy/下载/shenlan_code_practice/4/code/build/CMakeFiles/undistort_image.dir

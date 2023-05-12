@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hy/下载/shenlan_code_practice/2/test.cpp
+iostream
+-
+Eigen/Core
+-
+Eigen/Geometry
+-
+

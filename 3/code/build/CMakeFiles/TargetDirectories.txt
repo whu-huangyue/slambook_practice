@@ -1,0 +1,4 @@
+/home/hy/下载/shenlan_code_practice/3/code/build/CMakeFiles/rebuild_cache.dir
+/home/hy/下载/shenlan_code_practice/3/code/build/CMakeFiles/edit_cache.dir
+/home/hy/下载/shenlan_code_practice/3/code/build/CMakeFiles/trajectoryError.dir
+/home/hy/下载/shenlan_code_practice/3/code/build/CMakeFiles/draw_trajectory.dir

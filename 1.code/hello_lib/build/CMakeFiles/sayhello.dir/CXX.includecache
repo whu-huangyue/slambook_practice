@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hello.h
+
+/home/hy/下载/shenlan_code_practice/1.code/hello_lib/src/useHello.cpp
+hello.h
+/home/hy/下载/shenlan_code_practice/1.code/hello_lib/src/hello.h
+

@@ -1,0 +1,8 @@
+/home/hy/下载/shenlan_code_practice/1.code/hello_lib/build/CMakeFiles/install/strip.dir
+/home/hy/下载/shenlan_code_practice/1.code/hello_lib/build/CMakeFiles/install/local.dir
+/home/hy/下载/shenlan_code_practice/1.code/hello_lib/build/CMakeFiles/install.dir
+/home/hy/下载/shenlan_code_practice/1.code/hello_lib/build/CMakeFiles/list_install_components.dir
+/home/hy/下载/shenlan_code_practice/1.code/hello_lib/build/CMakeFiles/rebuild_cache.dir
+/home/hy/下载/shenlan_code_practice/1.code/hello_lib/build/CMakeFiles/edit_cache.dir
+/home/hy/下载/shenlan_code_practice/1.code/hello_lib/build/CMakeFiles/hello.dir
+/home/hy/下载/shenlan_code_practice/1.code/hello_lib/build/CMakeFiles/sayhello.dir

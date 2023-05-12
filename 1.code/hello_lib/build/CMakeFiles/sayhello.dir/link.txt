@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/sayhello.dir/src/useHello.cpp.o  -o sayhello  -Wl,-rpath,/home/hy/下载/shenlan_code_practice/1.code/hello_lib/build libhello.so 

@@ -1,0 +1,3 @@
+/home/hy/下载/shenlan_code_practice/6/code/build/CMakeFiles/rebuild_cache.dir
+/home/hy/下载/shenlan_code_practice/6/code/build/CMakeFiles/edit_cache.dir
+/home/hy/下载/shenlan_code_practice/6/code/build/CMakeFiles/comupteDisparity.dir
